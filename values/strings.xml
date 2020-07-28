@@ -1,0 +1,61 @@
+<resources>
+    <!--<string name="app_name">திவ்யப்பிரபந்தம்</string>-->
+    <string name="app_name">ஆழ்வார்களின் அமுதம்</string>
+    <string name="floater_message">ஓம் நமோ நாராயணா</string>
+    <string name="divyadesam">திவ்யதேசம் </string>
+    <string name="alwar">அழ்வார் </string>
+    <string name="map_menu">Map </string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_increase_first">Move to First</string>
+    <string name="action_increase_last">Move to Last</string>
+    <string name="action_increase_ten">Move ahead 10</string>
+    <string name="action_increase_twenty">Move ahead 20</string>
+    <string name="action_increase_fifty">Move ahead 50</string>
+    <string name="action_increase_hundred">Move ahead 100</string>
+    <string name="action_decrease_ten">Move back 10</string>
+    <string name="action_decrease_twenty">Move back 20</string>
+    <string name="action_decrease_fifty">Move back 50</string>
+    <string name="action_decrease_hundred">Move back 100</string>
+
+
+    <string-array name="hours">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="mins">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+    </string-array>
+
+    <string-array name="ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string name="title_activity_maps">Map of Divyadesams</string>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+
+        <style name="scrollbar_bitmap_style">
+            <item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
+            <item name="android:scrollbarStyle">outsideOverlay</item>
+            <item name="android:scrollbars">vertical</item>
+            <item name="android:fadeScrollbars">false</item>
+            <item name="android:scrollbarThumbVertical">@drawable/scrollbar_vertical_thumb_2</item>
+            <item name="android:scrollbarTrackVertical">@drawable/omnamonaryana</item>
+            <item name="android:scrollbarSize">12dp</item>
+        </style>
+
+
+    <style name="NotificationContent" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+
+</resources>
